@@ -13,7 +13,7 @@ config_version=5
 config/name="SpookyDemo"
 run/main_scene="res://canvas_layer.tscn"
 config/features=PackedStringArray("4.1", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="res://thumbnail2.png"
 
 [editor_plugins]
 

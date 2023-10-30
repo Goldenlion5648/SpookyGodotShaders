@@ -3553,7 +3553,6 @@ frame_progress = 1.0
 script = ExtResource("870_mek3s")
 
 [node name="black_window" type="TextureRect" parent="CanvasLayer"]
-visible = false
 material = SubResource("ShaderMaterial_ryfop")
 offset_right = 1920.0
 offset_bottom = 1080.0
